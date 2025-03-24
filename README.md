@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## About Me:
-I am an animal lover🐶, gamer🎮, and Lord of the Rings nerd 🧝🧙‍♂️💍🥔.
+I am an animal lover🐶, gamer🎮, and Lord of the Rings nerd 🧝🧙‍♂️💍🥔.  
 I am also a qualified Personal Trainer🏋️‍♀️ and Actor🎭.
 
 Fun Fact: In my free time, I learn to fight people with Longswords⚔️, Fencing Swords🤺, Axes🪓, Staffs, Knives🔪, and Hand-to-Hand🤜✋ (Stage Combat student).
