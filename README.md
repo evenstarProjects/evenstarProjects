@@ -3,14 +3,13 @@
 Welcome to my GitHub profile!
 
 ## About Me:
-I am an animal lover🐶, gamer🎮, and Lord of the Rings nerd 🧝🧙‍♂️💍🥔.  
-I am also a qualified Personal Trainer🏋️‍♀️ and Actor🎭.
+I am an animal lover🐶, gamer🎮, and Lord of the Rings nerd 🧝🧙‍♂️💍🥔. I am also a qualified Personal Trainer🏋️‍♀️ and Actor🎭.
 
 Fun Fact: In my free time, I learn to fight people with Longswords⚔️, Fencing Swords🤺, Axes🪓, Staffs, Knives🔪, and Hand-to-Hand🤜✋ (Stage Combat student).
 
-Favourite Lord of the Rings Quote - 
-__Legolas:__ >Lembas, Elvish Waybread. *takes tiny nibble* One small bite is enough to fill the stomach of a grown man.
-__Merry:__ >How many did you eat?
+Favourite Lord of the Rings Quote -  
+__Legolas:__ >Lembas, Elvish Waybread. (takes tiny nibble) One small bite is enough to fill the stomach of a grown man.  
+__Merry:__ >How many did you eat?  
 __Pippin:__ >Four...
 
 ## Coding Journey:
