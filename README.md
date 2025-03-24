@@ -22,5 +22,7 @@ I have Motion Capture training as an Actor, but I'd love to experience the other
 
 __In Essence...__  
 I just enjoy learning! So I'd love to join in on any collaborative projects and learn from people around me who are further along their coding journey!👩‍🎓📚📓  
-  
+
+---
+
 ##### ✨I look forward to showing the magic of learning by making this profile look cooler and cooler 😎✨
