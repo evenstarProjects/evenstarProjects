@@ -15,14 +15,11 @@ Favourite Lord of the Rings Quote -
 > __Pippin:__ Four...
 
 ### Coding Journey:
-I am currently learning HTML, CSS, and JavaScript, through MadLab's 'Intro to Web Development' course. 💻
-After finishing this course, I would like to move towards Front End Development.
-I plan to learn C++, Java, and C# next. I'd love to explore Video Game Development and Motion Capture📽️🎙️.
+I learned HTML, CSS, and JavaScript on MadLab's 'Intro to Web Development' course. 💻
+I completed further further courses with MadLab, including Python, and Game Design using GB Studio.
+I would like to move towards Front End Development.
+I would love to learn C++, Java, and C# next. I'd love to explore Video Game Development and Motion Capture📽️🎙️.
 I have Motion Capture training as an Actor, but I'd love to experience the other side of the development!
 
 __In Essence...__  
 I just enjoy learning! So I'd love to join in on any collaborative projects and learn from people around me who are further along their coding journey!👩‍🎓📚📓  
-
----
-
-##### ✨I look forward to showing the magic of learning by making this profile look cooler and cooler 😎✨
