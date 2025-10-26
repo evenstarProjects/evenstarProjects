@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ### About Me:
-I am an animal lover🐶, gamer🎮, and Lord of the Rings nerd 🧝🧙‍♂️💍🥔. I am also a qualified Personal Trainer🏋️‍♀️ and Actor🎭.
+I am an animal lover🐶, gamer🎮, and Lord of the Rings nerd* 🧝🧙‍♂️💍🥔. I am also a qualified Personal Trainer🏋️‍♀️ and Actor🎭.
 
 Fun Fact: In my free time, I learn to fight people with Longswords⚔️, Fencing Swords🤺, Axes🪓, Staffs, Knives🔪, and Hand-to-Hand🤜✋ (Stage Combat student).
 
@@ -23,3 +23,5 @@ I have Motion Capture training as an Actor, but I'd love to experience the other
 
 __In Essence...__  
 I just enjoy learning! So I'd love to join in on any collaborative projects and learn from people around me who are further along their coding journey!👩‍🎓📚📓  
+
+*I made LOTR even nerdier by adding binary to my Profile Pic design. Enjoy translating it!
